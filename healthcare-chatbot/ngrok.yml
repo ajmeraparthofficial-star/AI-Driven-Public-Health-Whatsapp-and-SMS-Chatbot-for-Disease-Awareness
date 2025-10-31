@@ -1,0 +1,9 @@
+version: 3
+agent:
+  authtoken: 34m99G64gvANxNkXCEEs4shNhBx_38WUHpS3vanYh1344w2Xo
+
+tunnels:
+  healthcare:
+    proto: http
+    addr: 5000
+    domain: sheiklike-magnus-cheliferous.ngrok-free.dev

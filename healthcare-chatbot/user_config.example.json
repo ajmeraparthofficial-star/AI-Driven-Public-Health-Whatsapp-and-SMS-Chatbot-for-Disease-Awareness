@@ -1,0 +1,17 @@
+{
+  "backend": {
+    "GEMINI_API_KEY": "your_gemini_api_key_here",
+    "WASENDER_API_KEY": "your_wasender_api_key_here",
+    "SMS_API_KEY": "your_sms_api_key_here",
+    "WHATSAPP_NUMBER": "+919000000000",
+    "SMS_NUMBER": "+919000000000",
+    "NGROK_DOMAIN": "your_ngrok_subdomain.ngrok.io",
+    "NGROK_AUTHTOKEN": "your_ngrok_authtoken_here",
+    "WASENDER_API_URL": "https://api.wasender.example/send",
+    "FAST2SMS_URL": "https://www.fast2sms.com/dev/bulkV2"
+  },
+  "frontend": {
+    "VITE_API_URL": "http://localhost:5000/api",
+    "VITE_GEMINI_KEY": "your_gemini_api_key_here"
+  }
+}

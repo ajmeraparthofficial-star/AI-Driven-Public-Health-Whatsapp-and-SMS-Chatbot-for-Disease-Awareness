@@ -1,0 +1,8 @@
+{
+  "name": "Medicos AI Health Assistant",
+  "description": "A comprehensive personal health management application featuring an AI-powered health checkup chatbot, medical report storage, vaccination scheduling, and a real-time global disease tracker. Designed to empower patients with accessible health information and tools.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}

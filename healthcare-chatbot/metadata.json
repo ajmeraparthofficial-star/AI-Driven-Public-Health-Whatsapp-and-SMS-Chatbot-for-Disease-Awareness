@@ -1,0 +1,7 @@
+{
+  "name": "AI Public Health Chatbot",
+  "description": "An AI-driven public health chatbot for disease awareness in India, featuring multilingual support, symptom checking, and voice commands to bridge the healthcare gap.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
